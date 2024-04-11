@@ -6,7 +6,7 @@ body {
     text-align: center;
 }
 
-#exercise-buttons button {
+#tlacidloproulohy button {
     background-color: #ddd;
     border: none;
     padding: 10px 20px;
@@ -14,7 +14,7 @@ body {
     cursor: pointer;
 }
 
-#exercise-buttons button:hover {
+#tlacidloproulohy button:hover {
     background-color: #ccc;
 }
 iframe {
